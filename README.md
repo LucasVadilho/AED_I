@@ -14,7 +14,8 @@ Repositório para guardar os códigos criados em aula e a resolução das listas
 ## Listas
 Os exercícios estão no [MoodleCMCC](http://moodlecmcc.ufabc.edu.br/login/index.php).
 
-| Lista | Data entrega |
+| Prática | Data entrega |
 | :---: | :----------: |
 | ~~1~~ | ~~26/02~~    |
 | ~~2~~ | ~~04/03~~    |
+| ~~3~~ | ~~18/03~~    |
