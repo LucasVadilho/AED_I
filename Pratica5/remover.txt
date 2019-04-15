@@ -1,0 +1,26 @@
+Dado um ponteiro para a raiz de uma AVL e um número inteiro 
+chave, crie funções que permitam inserir e remover a chave na 
+árvore.
+
+Se o ponteiro à árvore for NULL (indicando que a árvore está 
+vazia), as funções devem devolver NULL.
+
+Use as funções em um programa que:
+
+- [ENTRADA] leia n e, em seguida, n inteiros,
+
+- construa uma árvore AVL inserindo o n inteiros na ordem 
+recebida
+
+- [SAÍDA] imprima a altura da árvore 
+
+- [ENTRADA] leia uma chave e remova ela da árvore construída,
+
+- [SAÍDA] imprima a altura da árvore após a remoção
+
+- [SAÍDA] imprima o percurso em pós-ordem
+
+- libere a árvore.
+
+Os casos de teste estão abertos e ilustram o processo descrito 
+acima.
